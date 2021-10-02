@@ -1,12 +1,12 @@
 # Site settings
-title: Daeun Moon
+title: Daeun
 baseurl:
 url: "https://dauuni.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: Daeun Moon
+  name: 문다은
   desc: 
   email: ttaun0204@naver.com
   selfie: assets/img/profile.jpg
