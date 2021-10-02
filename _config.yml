@@ -1,14 +1,14 @@
 # Site settings
-title: A.P
+title: Daeun Moon
 baseurl:
-url: "https://kssim.github.io"
+url: "https://dauuni.github.io"
 google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: KyeongSeob Sim
-  desc: Hello nice to meet you
-  email: ksub0912@gmail.com
+  name: Daeun Moon
+  desc: 
+  email: ttaun0204@naver.com
   selfie: assets/img/profile.jpg
 
 # social
@@ -19,11 +19,11 @@ social:
   dribbble:
   facebook: Test
   flickr:
-  github: kssim
+  github: Dauuni
   google_plus:
   instagram:
   keybase:
-  linkedin: https://www.linkedin.com/in/kssim/ 
+  linkedin:
   pinterest:
   reddit:
   soundcloud:
@@ -35,7 +35,7 @@ social:
   vimeo:
   wordpress:
   youtube:
-  default_txt: "Follow On"
+  default_txt: 
 
 # Build settings
 markdown: kramdown
