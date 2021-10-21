@@ -64,7 +64,7 @@ type: 졸업작품
 	-- 데이터베이스에 있는 값을 APP에 나타내기 위해서 **JSON 형태**로 웹 상에 나타나게 하였고, 그 값을 읽을 때 사용하였다.
 
 
-##Concept Design
+## Concept Design
 - - -
 
-![](assets/img/2.jpg)
+![](./assets/img/2.jpg)
