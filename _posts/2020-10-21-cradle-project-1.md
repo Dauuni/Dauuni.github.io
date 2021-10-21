@@ -63,22 +63,30 @@ type: 졸업작품
 
 ## Concept Design
 
-<center>| ![](/assets/img/2.jpg) |
+<center>
+| ![](/assets/img/2.jpg) |
 |:---:|
-|Bazzi 단면도|</center>
+|Bazzi 단면도|
+</center>
 <br>
 
-<center>| ![](/assets/img/3.jpg) |
+<center>
+| ![](/assets/img/3.jpg) |
 |:---:|
-|라즈베리파이 및 아두이노 기능 블록도|</center>
+|라즈베리파이 및 아두이노 기능 블록도|
+</center>
 <br>
 
-<center>| ![](/assets/img/4.jpg) |
+<center>
+| ![](/assets/img/4.jpg) |
 |:---:|
-|라즈베리파이 및 아두이노 기능 블록도<br>(함수화)|</center>
+|라즈베리파이 및 아두이노 기능 블록도<br>(함수화)|
+</center>
 <br>
 
-<center>| ![](/assets/img/5.jpg) |
+<div style="text-align: center">
+| ![](/assets/img/5.jpg) |
 |:---:|
-|APP 기능 블록도|</center>
+|APP 기능 블록도|
+</div>
 <br>
