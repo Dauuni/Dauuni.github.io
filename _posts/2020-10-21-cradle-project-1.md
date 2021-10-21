@@ -67,8 +67,15 @@ type: 졸업작품
 |:---:|
 |Bazzi 단면도|
 <br>
-
-| <img src="/assets/img/3.jpg" width="100%" height="100%"/> | <img src="/assets/img/4.jpg" width="100%" height="100%"/> | <img src="/assets/img/5.jpg" width="100%" height="100%"/> |
-|:---:|:---:|:---:|
-|라즈베리파이 및 아두이노 기능 블록도|라즈베리파이 및 아두이노 기능 블록도<br>(함수화)|APP 기능 블록도|
-
+| <img src="/assets/img/3.jpg" width="100%" height="100%"/> |
+|:---:|
+|라즈베리파이 및 아두이노 기능 블록도|
+<br>
+| <img src="/assets/img/4.jpg" width="100%" height="100%"/> |
+|:---:|
+|라즈베리파이 및 아두이노 기능 블록도<br>(함수화)|
+<br>
+| <img src="/assets/img/5.jpg" width="100%" height="100%"/> |
+|:---:|
+|APP 기능 블록도|
+<br>
