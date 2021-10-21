@@ -67,4 +67,4 @@ type: 졸업작품
 ## Concept Design
 - - -
 
-![](./assets/img/2.jpg)
+![](/assets/img/2.jpg)
