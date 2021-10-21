@@ -67,8 +67,11 @@ type: 졸업작품
 ## Concept Design
 - - -
 
-![](/assets/img/2.jpg)
 | ![](/assets/img/2.jpg) |
 |:---:|
 | \<Bazzi 단면도\> |
+
+| ![](/assets/img/3.jpg) | ![](/assets/img/4.jpg) | ![](/assets/img/5.jpg) |
+|:---:|:---:|:---:|
+|\<라즈베리파이 및 아두이노 기능 블록도\>|\<라즈베리파이 및 아두이노 기능 블록도(함수화)\>|\APP 기능 블록도\>|
 
