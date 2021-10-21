@@ -66,6 +66,7 @@ type: 졸업작품
 | <img src="/assets/img/2.jpg" width="100%" height="100%"/> |
 |:---:|
 |Bazzi 단면도|
+<br>
 
 | <img src="/assets/img/3.jpg" width="100%" height="100%"/> | <img src="/assets/img/4.jpg" width="100%" height="100%"/> | <img src="/assets/img/5.jpg" width="100%" height="100%"/> |
 |:---:|:---:|:---:|
