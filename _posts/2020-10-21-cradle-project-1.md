@@ -65,9 +65,9 @@ type: 졸업작품
 
 ## Concept Design
 
-| ![](/assets/img/2.jpg) |
+| ![](/assets/img/2.jpg "1" "width:200px;height:100px") |
 |:---:|
-| \<Bazzi 단면도\> |
+|Bazzi 단면도|
 
 | ![](/assets/img/3.jpg) | ![](/assets/img/4.jpg) | ![](/assets/img/5.jpg) |
 |:---:|:---:|:---:|
