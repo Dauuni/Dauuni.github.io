@@ -68,3 +68,7 @@ type: 졸업작품
 - - -
 
 ![](/assets/img/2.jpg)
+| ![](/assets/img/2.jpg) |
+|:---:|
+| \<Bazzi 단면도\> |
+
