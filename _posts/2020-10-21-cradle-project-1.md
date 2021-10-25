@@ -13,14 +13,15 @@ type: Team
 이때, 스마트 요람 'Bazzi'는 부모의 눈과 손을 대신해 주는 역할을 한다. Bazzi를 통해 실시간 모니터링과 체온&맥박 상태 등 아기의 상태를 APP을 통해 확인할 수 있기 때문이다.<br><br>
 
 ## Member
-**문다은** : 안드로이드 APP 제작
-권영인 : 리즈베리파이 및 아두이노
-나새영 : 라즈베리파이 및 아두이노
-김혜선 : 안드로이드 APP 제작
+---
+**문다은** : 안드로이드 APP 제작<br>
+권영인 : 리즈베리파이 및 아두이노<br>
+나새영 : 라즈베리파이 및 아두이노<br>
+김혜선 : 안드로이드 APP 제작<br>
 
 
 ## Techique
-
+---
 
 - **Raspberry PI 4**
 
@@ -69,6 +70,7 @@ type: Team
 	-- 데이터베이스에 있는 값을 APP에 나타내기 위해서 **JSON 형태**로 웹 상에 나타나게 하였고, 그 값을 읽을 때 사용하였다.<br><br>
 
 ## Concept Design
+---
 
 ![](/assets/img/2.jpg)
 <center>[Bazzi 단면도]</center>
@@ -87,6 +89,7 @@ type: Team
 <br><br>
 
 ## SRS(Software Requirements Specification)
+---
 
 | ID | 요구사항 | 내용 | 우선<br>순위 |
 |:----:|----|----|:----:|
@@ -102,8 +105,9 @@ type: Team
 <br>
 
 ## Development(APP)
+---
 
-▶ APP 아이콘
+▶ APP 아이콘<br>
 ![](/assets/img/8.jpg)<br>
 
 ▶ App 메인화면, Navigation Drawer
