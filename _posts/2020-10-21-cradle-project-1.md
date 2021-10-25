@@ -112,6 +112,7 @@ type: Team
 ▶ APP 아이콘
 
 <br>
+
 ![](/assets/img/8.jpg)<br>
 
 ▶ App 메인화면, Navigation Drawer
