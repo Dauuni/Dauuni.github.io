@@ -81,5 +81,5 @@ type: Team
 
 ## SRS(Software Requirements Specification)
 
-![](/assets/img/6.jpg)
-![](/assets/img/7.jpg)
+![](/assets/img/6.JPG)
+![](/assets/img/7.JPG)
