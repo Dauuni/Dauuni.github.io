@@ -9,8 +9,13 @@ type: Team
 <style>
   table {
       border-collapse: collapse;
+      border-top: 2px solid #1b3453;
+      border-left: 2px solid #1b3453;
+      border-right: 2px solid #1b3453;
+      border-bottom: 2px solid #1b3453;
   }
   table thead th {
+  		border-bottom: 2px solid #1b3453;
       text-align: center;
       line-height: 1.5;
       padding: 10px;
@@ -18,18 +23,13 @@ type: Team
       vertical-align: center;
       color: #1b3453;
   }
-  table tbody th {
-      padding: 10px 15px;
-      font-weight: bold;
-      vertical-align: center;
-      border-bottom: 1px solid #ccc;
-      background: #f3f6f7;
-  }
   table td {
       padding: 10px 15px;
       vertical-align: center;
+      border-left: 1px solid #ccc;
+      border-right: 1px solid #ccc;
       border-bottom: 1px solid #ccc;
-  }
+}
 </style>
 
 # 아기의 안전을 위한 스마트요람 Bazzi
