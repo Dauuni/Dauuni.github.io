@@ -15,7 +15,10 @@ type: Team
       border-bottom: 2px solid #1b3453;
   }
   table thead th {
+  		border-left: 2px solid #1b3453;
+  		border-right: 2px solid #1b3453;
   		border-bottom: 2px solid #1b3453;
+      background-color: #F2F2F2;
       text-align: center;
       line-height: 1.5;
       padding: 10px;
