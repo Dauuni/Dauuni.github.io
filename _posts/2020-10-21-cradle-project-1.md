@@ -23,7 +23,7 @@ type: Team
 ## Develop Period
 ---
 
-![](/assets/img/26.JPG){: width="100" height="100"}
+![](/assets/img/26.JPG){: width="300" height="200"}
 <br>
 
 
