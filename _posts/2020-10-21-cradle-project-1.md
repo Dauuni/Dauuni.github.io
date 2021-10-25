@@ -23,7 +23,7 @@ type: Team
 ## Develop Period
 ---
 
-![](/assets/img/26.JPG)
+![](/assets/img/26.JPG){: width="100" height="100}
 <br>
 
 
@@ -99,8 +99,6 @@ type: Team
 
 ## SRS(Software Requirements Specification)
 ---
-
-<br>
 
 | ID | 요구사항 | 내용 | 우선<br>순위 |
 |:----:|----|----|:----:|
