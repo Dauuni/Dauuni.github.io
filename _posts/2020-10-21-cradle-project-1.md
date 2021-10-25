@@ -97,16 +97,17 @@ type: Team
 | B_05 | 육아 일기 | - APP에서 육아 일기를 작성할 수 있고, 이후에 날짜별로 기록된 일기를 열어볼 수 있다. | 6
 | B_06 | 아기 정보 입력 | - APP에서 아기의 사진, 이름, 성별, 나이 정보를 입력하여 아기 정보를 등록할 수 있다.<br> - 입력된 정보는 DB에 저장된다. | 4 |
 | B_07 | 수유 시간 및 수유량 기록 | - 수유 시간을 기록할 수 있다.<br> - 아기가 먹은 양을 기록할 수 있다. | 7 |
+
 <br>
 <br>
 
 ## Development(APP)
 
 ▶ APP 아이콘
-![](assets/img/8.jpg)<br>
+![](/assets/img/8.jpg)<br>
 
 ▶ App 메인화면, Navigation Drawer
 
 | 메인화면 | Navigation | 아기 정보 수정 및 등록 화면 |
 |:-------:|:--------:|:--------:|
-| ![](assets/img/9.jpg) | ![](assets/img/10.jpg) | ![](assets/img/11.jpg) |
+| ![](/assets/img/9.jpg) | ![](/assets/img/10.jpg) | ![](/assets/img/11.jpg) |
