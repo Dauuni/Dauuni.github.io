@@ -70,7 +70,7 @@ type: Team
 	-- 데이터베이스에 있는 값을 APP에 나타내기 위해서 **JSON 형태**로 웹 상에 나타나게 하였고, 그 값을 읽을 때 사용하였다.<br><br>
 
 ## Concept Design
----
+---<br>
 
 ![](/assets/img/2.jpg)
 <center>[Bazzi 단면도]</center>
@@ -89,7 +89,7 @@ type: Team
 <br><br>
 
 ## SRS(Software Requirements Specification)
----
+---<br>
 
 | ID | 요구사항 | 내용 | 우선<br>순위 |
 |:----:|----|----|:----:|
@@ -105,7 +105,7 @@ type: Team
 <br>
 
 ## Development(APP)
----
+---<br>
 
 ▶ APP 아이콘<br>
 ![](/assets/img/8.jpg)<br>
@@ -116,6 +116,8 @@ type: Team
 |:-------:|:--------:|:--------:|
 | ![](/assets/img/9.jpg) | ![](/assets/img/10.jpg) | ![](/assets/img/11.jpg) |
 
+<br>
+
 ▶ App과 데이터베이스 연동<br>
 ![](/assets/img/12.jpg)<br>
 
@@ -125,11 +127,16 @@ type: Team
 |:--------:|:--------:|:--------:|:--------:|
 | ![](/assets/img/13.jpg) | ![](/assets/img/14.jpg) | ![](/assets/img/15.jpg) |  ![](/assets/img/16.jpg)  |
 
+<br>
+
 | 일기장 리스트 화면 | 작성 화면 | 성장 그래프 화면 |
 |:-------:|:-------:|:-------:|
-| ![](/assets/img/17.jpg) | ![](/assets/img/18.jpg) | ![](assets/img/19.jpg) |
+| ![](/assets/img/17.jpg) | ![](/assets/img/18.jpg) | ![](/assets/img/19.jpg) |
+
+<br>
 
 ▶ App 사용 방법 화면
 
-![](/assets/img/20.jpg)![](/assets/img/21.jpg)![](/assets/img/22.jpg)<br>
-![](/assets/img/23.jpg)![](/assets/img/24.jpg)![](/assets/img/25.jpg)
+|![](/assets/img/20.jpg)|![](/assets/img/21.jpg)|![](/assets/img/22.jpg)|
+|:----:|:----:|:----:|
+|![](/assets/img/23.jpg)|![](/assets/img/24.jpg)|![](/assets/img/25.jpg)|
