@@ -14,10 +14,17 @@ type: Team
 
 ## Member
 ---
+
 **문다은** : 안드로이드 APP 제작<br>
 권영인 : 리즈베리파이 및 아두이노<br>
 나새영 : 라즈베리파이 및 아두이노<br>
 김혜선 : 안드로이드 APP 제작<br><br>
+
+## Develop Period
+---
+
+![](/assets/img/26.JPG)
+<br>
 
 
 ## Techique
@@ -70,7 +77,9 @@ type: Team
 	-- 데이터베이스에 있는 값을 APP에 나타내기 위해서 **JSON 형태**로 웹 상에 나타나게 하였고, 그 값을 읽을 때 사용하였다.<br><br>
 
 ## Concept Design
----<br>
+---
+
+<br>
 
 ![](/assets/img/2.jpg)
 <center>[Bazzi 단면도]</center>
