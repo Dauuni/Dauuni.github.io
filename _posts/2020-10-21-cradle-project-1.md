@@ -9,26 +9,26 @@ type: Team
 <style>
   table {
       border-collapse: collapse;
-      border-top: 2px solid #1b3453;
-      border-left: 2px solid #1b3453;
-      border-right: 2px solid #1b3453;
-      border-bottom: 2px solid #1b3453;
+      border-top: 1px solid #ccc;
+      border-left: 1px solid #ccc;
+      border-right: 1px solid #ccc;
+      border-bottom: 1px solid #ccc;
   }
   table thead th {
-  		border-left: 2px solid #1b3453;
-  		border-right: 2px solid #1b3453;
-  		border-bottom: 2px solid #1b3453;
+  		border-left: 2px solid #ccc;
+  		border-right: 2px solid #ccc;
+  		border-bottom: 2px solid #ccc;
       background-color: #F2F2F2;
       text-align: center;
       line-height: 1.5;
       padding: 10px;
       font-weight: bold;
-      vertical-align: center;
+      vertical-align: middle;
       color: #1b3453;
   }
   table td {
       padding: 10px 15px;
-      vertical-align: center;
+      vertical-align: middle;
       border-left: 1px solid #ccc;
       border-right: 1px solid #ccc;
       border-bottom: 1px solid #ccc;
