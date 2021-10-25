@@ -17,7 +17,7 @@ type: Team
 **문다은** : 안드로이드 APP 제작<br>
 권영인 : 리즈베리파이 및 아두이노<br>
 나새영 : 라즈베리파이 및 아두이노<br>
-김혜선 : 안드로이드 APP 제작<br>
+김혜선 : 안드로이드 APP 제작<br><br>
 
 
 ## Techique
@@ -115,3 +115,21 @@ type: Team
 | 메인화면 | Navigation | 아기 정보 수정 및 등록 화면 |
 |:-------:|:--------:|:--------:|
 | ![](/assets/img/9.jpg) | ![](/assets/img/10.jpg) | ![](/assets/img/11.jpg) |
+
+▶ App과 데이터베이스 연동<br>
+![](/assets/img/12.jpg)<br>
+
+▶ App 기능 화면
+
+| 아기 상태 화면 | 알림 화면 | 디스플레이 화면 | 수유 화면 |
+|:--------:|:--------:|:--------:|:--------:|
+| ![](/assets/img/13.jpg) | ![](/assets/img/14.jpg) | ![](/assets/img/15.jpg) |  ![](/assets/img/16.jpg)  |
+
+| 일기장 리스트 화면 | 작성 화면 | 성장 그래프 화면 |
+|:-------:|:-------:|:-------:|
+| ![](/assets/img/17.jpg) | ![](/assets/img/18.jpg) | ![](assets/img/19.jpg) |
+
+▶ App 사용 방법 화면
+
+![](/assets/img/20.jpg)![](/assets/img/21.jpg)![](/assets/img/22.jpg)<br>
+![](/assets/img/23.jpg)![](/assets/img/24.jpg)![](/assets/img/25.jpg)
