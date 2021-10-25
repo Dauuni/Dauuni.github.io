@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "아기의 안전을 위한 스마트 요람 Bazzi"
-info: ""
+info: "졸업작품"
 tech: "RaspberryPI, Arduino, Android Studio, phpMyAdmin, PHP"
-type: 졸업작품
+type: Team
 ---
 
 # 아기의 안전을 위한 스마트요람 Bazzi
@@ -64,17 +64,23 @@ type: 졸업작품
 ## Concept Design
 
 ![](/assets/img/2.jpg)
-<center>Bazzi 단면도</center>
+<center>[Bazzi 단면도]</center>
 <br>
 
 ![](/assets/img/3.jpg)
-<center>라즈베리파이 및 아두이노 기능 블록도</center>
+<center>[라즈베리파이 및 아두이노 기능 블록도]</center>
 <br>
 
 ![](/assets/img/4.jpg)
-<center>라즈베리파이 및 아두이노 기능 블록도<br>(함수화)</center>
+<center>[라즈베리파이 및 아두이노 기능 블록도]<br>(함수화)</center>
 <br>
 
 ![](/assets/img/5.jpg)
-<center>APP 기능 블록도</center>
-<br>
+<center>[APP 기능 블록도]</center>
+<br><br>
+
+## SRS(Software Requirements Specification)
+
+| ID | 요구사항 | 내용 | 우선순위 |
+|:----:|---------|--------------|:--:|
+| R_01 | 실시간 모니터링 | - 라즈베리파이에 부착된 카메라를 통해 아기의 모습을 실시간으로 모니터링 할 수 있다.<br>  - 라즈베리파이에 전원을 가하면 mjpg-stream이 자동으로 실행되고, 모니터링 화면은 APP을 통해 확인할 수 있다. | 2 |
