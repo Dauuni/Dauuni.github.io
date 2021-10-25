@@ -6,6 +6,36 @@ tech: "RaspberryPI, Arduino, Android Studio, phpMyAdmin, PHP"
 type: Team
 ---
 
+<style>
+  /* 2way헤더와 라인포인트*/
+  table {
+      border-collapse: collapse;
+      text-align: left;
+      line-height: 1.5;
+  }
+  table thead th {
+      text-align: center;
+      padding: 10px;
+      font-weight: bold;
+      vertical-align: top;
+      color: #1b3453;
+      border-top: 2px solid #1b3453;
+      border-bottom: 2px solid #1b3453;
+  }
+  table tbody th {
+      padding: 10px 15px;
+      font-weight: bold;
+      vertical-align: top;
+      border-bottom: 1px solid #ccc;
+      background: #f3f6f7;
+  }
+  table td {
+      padding: 10px 15px;
+      vertical-align: top;
+      border-bottom: 1px solid #ccc;
+  }
+</style>
+
 # 아기의 안전을 위한 스마트요람 Bazzi
 
 아기가 태어난 후 부모는 필수적으로 아기의 침대 또는 요람을 구입하게 된다. 24시간 아기의 상태를 신경 써야 하는 부모는 아기를 중심으로 행동반경이 넓지 않게 된다.
