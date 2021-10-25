@@ -105,12 +105,18 @@ type: Team
 <br>
 
 ## Development(APP)
----<br>
+---
 
-▶ APP 아이콘<br>
+<br>
+
+▶ APP 아이콘
+
+<br>
 ![](/assets/img/8.jpg)<br>
 
 ▶ App 메인화면, Navigation Drawer
+
+<br>
 
 | 메인화면 | Navigation | 아기 정보 수정 및 등록 화면 |
 |:-------:|:--------:|:--------:|
@@ -118,10 +124,14 @@ type: Team
 
 <br>
 
-▶ App과 데이터베이스 연동<br>
+▶ App과 데이터베이스 연동
+
+<br>
 ![](/assets/img/12.jpg)<br>
 
 ▶ App 기능 화면
+
+<br>
 
 | 아기 상태 화면 | 알림 화면 | 디스플레이 화면 | 수유 화면 |
 |:--------:|:--------:|:--------:|:--------:|
@@ -136,6 +146,8 @@ type: Team
 <br>
 
 ▶ App 사용 방법 화면
+
+<br>
 
 |![](/assets/img/20.jpg)|![](/assets/img/21.jpg)|![](/assets/img/22.jpg)|
 |:----:|:----:|:----:|
