@@ -9,16 +9,14 @@ type: Team
 <style>
   table {
       border-collapse: collapse;
-      line-height: 1.5;
   }
   table thead th {
       text-align: center;
+      line-height: 1.5;
       padding: 10px;
       font-weight: bold;
-      vertical-align: top;
+      vertical-align: center;
       color: #1b3453;
-      border-top: 2px solid #1b3453;
-      border-bottom: 2px solid #1b3453;
   }
   table tbody th {
       padding: 10px 15px;
@@ -128,6 +126,8 @@ type: Team
 ## SRS(Software Requirements Specification)
 ---
 
+<br>
+
 | ID | 요구사항 | 내용 | 우선순위 | 달성률(%) |
 |:----:|----|----|:----:|:----:|
 | B_01 | 실시간 모니터링 | - 라즈베리파이에 부착된 카메라를 통해 아기의 모습을 실시간으로 모니터링 할 수 있다.<br>  - 라즈베리파이에 전원을 가하면 mjpg-stream이 자동으로 실행되고, 모니터링 화면은 APP을 통해 확인할 수 있다. | 2 | 100 |
@@ -186,6 +186,8 @@ type: Team
 
 ## Appearance of the work
 ---
+
+<br>
 
 | img | contents |
 |:----:|----|
