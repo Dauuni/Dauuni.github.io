@@ -181,7 +181,7 @@ type: Team
 
 **▶ App 사용 방법 화면**
 
-| img |||
+| img |
 |:----:|:----:|:----:|
 |![](/assets/img/20.jpg)|![](/assets/img/21.jpg)|![](/assets/img/22.jpg)|
 |![](/assets/img/23.jpg)|![](/assets/img/24.jpg)|![](/assets/img/25.jpg)|
