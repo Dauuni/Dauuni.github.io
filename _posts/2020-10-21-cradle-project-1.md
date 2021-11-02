@@ -41,6 +41,11 @@ type: Team
 
 이때, 스마트 요람 'Bazzi'는 부모의 눈과 손을 대신해 주는 역할을 한다. Bazzi를 통해 실시간 모니터링과 체온&맥박 상태 등 아기의 상태를 APP을 통해 확인할 수 있기 때문이다.<br><br>
 
+## Github
+---
+<https://github.com/Dauuni/Bazzi.git>
+<br><br>
+
 ## Member
 ---
 
