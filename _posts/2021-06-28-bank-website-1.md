@@ -37,7 +37,7 @@ KM Bank 사이트는 이 점을 고려하여 사용자가 궁금한 두 은행�
 ![](/assets/img/37.jpg)
 
 - **Physical**
-![](/assets/img/38.jpg)<br>
+![](/assets/img/38.jpg)
 
 ## Techique
 ---
@@ -118,3 +118,11 @@ KM Bank 사이트는 이 점을 고려하여 사용자가 궁금한 두 은행�
 10. Controller, Beans(Tool(Utility 날짜 처리등 각종 메소드), Paging, Download)
 11. JSP 제작, Controller, Beans와 연동
 12. Test
+<br><br>
+
+## Web site
+---
+
+- main
+![](/assets/img/39.jpg)
+웹 사이트에 접속하자마자 뜨는 메인 화면이다. 현재 관리자 권한으로 로그인한 상태여서 오른쪽 상단에 관리자 버튼이 활성화 되어 있는 상태이다. 아래 메인 컨텐츠 부분은 메인 화면에서 많이 사용 되는 이미지 슬라이드를 추가하였다.
