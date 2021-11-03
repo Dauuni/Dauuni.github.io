@@ -2,7 +2,7 @@
 layout: post
 title: "은행별 예금, 적금 상품 비교 사이트 KM Bank"
 info: "웹 사이트 제작"
-tech: "Spring Boot, MyBATIS, Oracle, Bootstrap, HTML5, CSS, JSP, JavaScript, jQuery, Ajax, JSON"
+tech: "Spring Boot, MyBATIS, Oracle, Bootstrap, HTML5, CSS, JSP, JavaScript, jQuery, AJAX, JSON"
 type: Team
 ---
 
@@ -57,23 +57,30 @@ KM Bank 사이트는 이 점을 고려하여 사용자가 궁금한 두 은행�
 
 - **JSP**
 
-	-- 서버 프로그램 구현을 위해 HTML 코드 내에 직접 자바 코드를 삽입하는 JSP를 사용하였다.
+	-- **서버** 프로그램 구현을 위해 HTML 코드 내에 직접 자바 코드를 삽입하는 JSP를 사용하였다.
 
-	-- 많이 사용되는 개발자 정의 태그를 모은 JSTL을 이용하여 JSP 개발하였다.<br><br>
-    	라이브러리    기능                                      접두어(prefix)
-        ----------------------------------------------------------------------
-       	Core          변수지원, 흐름 제어, URL 처리           c
-       	관련 URL: http://java.sun.com/jsp/jstl/core ★
+	-- JSTL에서 제공하는 태그들을 사용하여 선언하였다.
 
-       	XML           XML 코어, 흐름 제어, XML 변환         x
-       	관련 URL: http://java.sun.com/jsp/jstl/xml
+    -- JAVA 코드를 처리하여 출력 결과를 HTML과 CSS로 변환하여 출력한다.
 
-       	국제화        지역, 메시지 형식, 숫자 및 날짜 형식  fmt
-       	관련 URL: http://java.sun.com/jsp/jstl/fmt
+    -- WEB에서 JAVA를 이용한 DBMS 접근을 처리한다.
 
-       	데이터베이스  SQL                                          sql
-       	관련 URL: http://java.sun.com/jsp/jstl/sql
+- **JavaScript**
 
-       	함수          콜렉션 처리, String 처리                   fn
-       	관련 URL: http://java.sun.com/jsp/jstl/functions
-     	----------------------------------------------------------------------
+	-- JSP에서 호출할 함수를 선언하고 WEB 요소의 id를 사용하여 해당 요소의 동작을 지정한다.
+
+- **jQuery**
+
+	-- JavaScript 라이브러리로 **동적 이벤트 처리**를 담당한다.
+    <br>
+    ex) 체크박스 갯수 제한, 버튼 클릭, 마우스 on/over 등
+
+- **AJAX**
+
+	-- **페이지 이동없이** 화면을 전환하기 위해 사용하였다.
+
+	-- Controller에서 JSON 형태의 변수를 전달하여 JSP에서 선언하고, **동작들을 처리**한다.
+
+- **JSON**
+
+	-- Controller에서 VO에서 선언한 각각의 필드를 AJAX가 사용하기 위해 데이터를 전달하는 개방형 표준 포맷이다.
