@@ -26,8 +26,18 @@ KM Bank 사이트는 이 점을 고려하여 사용자가 궁금한 두 은행�
 ## Develop Period
 ---
 
+<br>
 ![](/assets/img/36.jpg)
 <br>
+
+## ERD(Entity-Relationship Diagram)
+---
+
+- **Logical**
+![](/assets/img/37.jpg)
+
+- **Physical**
+![](/assets/img/38.jpg)<br>
 
 ## Techique
 ---
