@@ -42,17 +42,18 @@ KM Bank 사이트는 이 점을 고려하여 사용자가 궁금한 두 은행�
 	-- **SQL Developer** 19.2.1버전을 사용하여 Oracle 11G에서 생성한 계정으로 접속하여 테이블과 데이터를 관리하였다.
     ![](/assets/img/35.JPG)
 
-- **화면 설계**
+- **UI Style**
 
-	-- **Bootstrap**
-    HTML, CSS, JS 프레임워크인 Bootstrap을 사용하여 웹사이트를 디자인을 구성하였다.<br>
+	-- **Bootstrap**<br>
+    HTML, CSS, JS 프레임워크인 Bootstrap을 사용하여 웹사이트를 디자인을 구성하였다.
+    <br><br>
     Bootstrap은 하나의 CSS로 Mobile(휴대폰), 태블릿, 데스크탑 등 많은 기기에서 작동하고, 여러 기능을 제공하여 사용자가 쉽게 웹 사이트를 제작 및 유지 보수 할 수 있도록 도와준다.
 
-	-- **HTML5**
+	-- **HTML5**<br>
+    Layout 구성 및 데이터 출력의 목적으로 사용하였다.
 
-    -- **CSS**
-
-    -- **JSP**
+    -- **CSS**<br>
+    출력되는 HTML에 시각적인 효과를 적용하기 위해 사용하였다.
 
 - **PHP**
 
