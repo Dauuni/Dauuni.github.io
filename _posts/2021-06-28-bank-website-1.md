@@ -2,7 +2,7 @@
 layout: post
 title: "은행별 예금, 적금 상품 비교 사이트 KM Bank"
 info: "웹 사이트 제작"
-tech: "Spring Boot, MyBATIS, Gradle, Oracle, Bootstrap, JavaScript, jQuery, Ajax, JSON, HTML5, CSS, JSP"
+tech: "Spring Boot, MyBATIS, Oracle, Bootstrap, JavaScript, jQuery, Ajax, JSON, HTML5, CSS, JSP"
 type: Team
 ---
 
@@ -28,26 +28,19 @@ KM Bank 사이트는 이 점을 고려하여 사용자가 궁금한 두 은행�
 
 - **Spring Boot**
 
-	![](/assets/img/33.jpg){: width="80" height="50"} 스프링 개발과 관련된 기능들을 개발자가 사용하기 편리하도록 지원하는 **STS(Spring Tool Suite)** 4.60 버전을 사용하여 개발하였다.
+	![](/assets/img/33.jpg){: width="80" height="60"} 스프링 개발과 관련된 기능들을 개발자가 사용하기 편리하도록 지원하는 **STS(Spring Tool Suite)** 4.6 버전을 사용하여 개발하였다.
 
 - **MyBATIS**
 
 	-- SQL을 JAVA와 분리함으로 **독립적인 팀 개발**이 가능하여 개발 시간을 단축시켰고, SQL과 JAVA의 연결을 **XML을 이용**하여 선언하였다.
     ![](/assets/img/34.JPG)
 
-- **Android**
+- **Oracle**
 
-	-- Android Studio로 개발한 APP에서 요람에서 제공하는 아기의 상태를 확인할 수 있다.
+	-- **Oracle 11G**를 사용하여 데이터를 관리하였다.
 
-	-- **회원가입&로그인 기능**을 통해 데이터를 저장하며 사용할 수 있다.
-
-	-- 한 화면에서 카메라 모듈이 웹에 전송한 **실시간 화면**과 **아기의 맥박과 체온 값**을 볼 수 있다.
-
-	--  날짜별로 아기의 키와 몸무게를 입력하면 성장 속도를 한눈에 볼 수 있는 **성장 그래프**를 생성한다.
-
-	-- **일기장** 기능을 통해 아기와 함께한 하루를 기록할 수 있다.
-
-	-- 날마다 다른 수유량을 날짜, 시간과 함께 저장하여 리스트 형식으로 볼 수 있다.
+	-- **SQL Developer** 19.2.1버전을 사용하여 Oracle 11G에서 생성한 계정으로 접속하여테이블과 데이터를 관리하였다.
+    ![](/assets/img/35.JPG)
 
 - **phpMyAdmin**
 
