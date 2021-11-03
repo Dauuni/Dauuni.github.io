@@ -1,6 +1,6 @@
- ---
+---
 layout: post
-title:  "은행별 예금, 적금 상품 비교 사이트 KM Bank"
+title: "은행별 예금, 적금 상품 비교 사이트 KM Bank"
 info: "웹 사이트 제작"
 tech: "Spring Boot, MyBATIS, Gradle, Oracle, Bootstrap, JavaScript, jQuery, Ajax, JSON, HTML5, CSS, JSP"
 type: Team
