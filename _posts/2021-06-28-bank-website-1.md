@@ -26,7 +26,7 @@ KM Bank 사이트는 이 점을 고려하여 사용자가 궁금한 두 은행�
 ## Develop Period
 ---
 
-![](/assets/img/26.JPG)
+![](/assets/img/36.jpg)
 <br>
 
 ## Techique
