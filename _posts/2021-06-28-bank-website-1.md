@@ -55,10 +55,26 @@ KM Bank 사이트는 이 점을 고려하여 사용자가 궁금한 두 은행�
     -- **CSS**<br>
     출력되는 HTML에 시각적인 효과를 적용하기 위해 사용하였다.
 
-- **PHP**
+- **JSP**
 
-	-- APP과 phpMyAdmin을 연결하는데 사용하였다.
+	-- 서버 프로그램 구현을 위해 HTML 코드 내에 직접 자바 코드를 삽입하는 JSP를 사용하였다.
 
-	-- APP에서 입력한 데이터를 MySQL에 저장할 때 사용하였다.
+	-- 많이 사용되는 개발자 정의 태그를 모은 JSTL을 이용하여 JSP 개발하였다.<br><br>
 
-	-- 데이터베이스에 있는 값을 APP에 나타내기 위해서 **JSON 형태**로 웹 상에 나타나게 하였고, 그 값을 읽을 때 사용하였다.<br><br>
+    	라이브러리    기능                                        접두어(prefix)
+    	----------------------------------------------------------------------
+       	Core          변수지원, 흐름 제어, URL 처리           c
+       	관련 URL: http://java.sun.com/jsp/jstl/core ★
+
+       	XML           XML 코어, 흐름 제어, XML 변환         x
+       	관련 URL: http://java.sun.com/jsp/jstl/xml
+
+       	국제화        지역, 메시지 형식, 숫자 및 날짜 형식  fmt
+       	관련 URL: http://java.sun.com/jsp/jstl/fmt
+
+       	데이터베이스  SQL                                          sql
+       	관련 URL: http://java.sun.com/jsp/jstl/sql
+
+       	함수          콜렉션 처리, String 처리                   fn
+       	관련 URL: http://java.sun.com/jsp/jstl/functions
+     	----------------------------------------------------------------------
