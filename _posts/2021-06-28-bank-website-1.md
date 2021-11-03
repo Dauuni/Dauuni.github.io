@@ -2,7 +2,7 @@
 layout: post
 title: "은행별 예금, 적금 상품 비교 사이트 KM Bank"
 info: "웹 사이트 제작"
-tech: "Spring Boot, MyBATIS, Oracle, Bootstrap, JavaScript, jQuery, Ajax, JSON, HTML5, CSS, JSP"
+tech: "Spring Boot, MyBATIS, Oracle, Bootstrap, HTML5, CSS, JSP, JavaScript, jQuery, Ajax, JSON"
 type: Team
 ---
 
@@ -39,20 +39,20 @@ KM Bank 사이트는 이 점을 고려하여 사용자가 궁금한 두 은행�
 
 	-- **Oracle 11G**를 사용하여 데이터를 관리하였다.
 
-	-- **SQL Developer** 19.2.1버전을 사용하여 Oracle 11G에서 생성한 계정으로 접속하여테이블과 데이터를 관리하였다.
+	-- **SQL Developer** 19.2.1버전을 사용하여 Oracle 11G에서 생성한 계정으로 접속하여 테이블과 데이터를 관리하였다.
     ![](/assets/img/35.JPG)
 
-- **phpMyAdmin**
+- **화면 설계**
 
-	-- MySQL **데이터 데이스를 관리**하는 용도로 사용하였다.
+	-- **Bootstrap**
+    HTML, CSS, JS 프레임워크인 Bootstrap을 사용하여 웹사이트를 디자인을 구성하였다.<br>
+    Bootstrap은 하나의 CSS로 Mobile(휴대폰), 태블릿, 데스크탑 등 많은 기기에서 작동하고, 여러 기능을 제공하여 사용자가 쉽게 웹 사이트를 제작 및 유지 보수 할 수 있도록 도와준다.
 
-	-- bazzi라는 데이터베이스를 생성하여 전체 데이터를 관리하였다.
+	-- **HTML5**
 
- > ⓐ 회원가입한 이용자의 아이디, 비밀번호(암호화)의 값을 Login 테이블 userID, userPassword열에 저장
- > 
- > ⓑ 아기의 체온, 맥박 값을 mysql 테이블 temp2, bpm2열에 저장
- > 
- > ⓒ 그래프 작성을 위해 사용자가 입력한 아기의 키, 몸무게 값과 날짜를 babyGraph테이블 babyCM, babyKG, babyDate열에 저장
+    -- **CSS**
+
+    -- **JSP**
 
 - **PHP**
 
