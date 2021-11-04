@@ -9,14 +9,29 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 <br/>
 
-# Career
-* Second Company (2012/01 ~ )
-  * Web Application Firewall
+# Education&Career
+<pre>
+<code>
+* 솔데스크<br>	(빅데이터 전문가)자바, 파이썬을 활용한 머신러닝 개발자 양성과정<br>	『2017/03 ~ 2021/02)』
+</code>
+
     * Developed TCP network acceleration module.
     * Developde Application User Interface.
-* First Company (2011/01 ~ 2011/12)
-  * VPN Development Company
-  * Team Leader of VPN Development Div.
+</pre>
+
+<pre>
+<code>
+* 성결대학교 정보통신공학과<br>	『(2017/03 ~ 2021/02)』
+</code>
+    * Developed TCP network acceleration module.
+    * Developde Application User Interface.
+</pre>
+
+<pre>
+<code>
+* 과천여자고등학교<br>	『2014/03 ~ 2017/02)』
+</code>
+</pre>
 
 <br/>
 
