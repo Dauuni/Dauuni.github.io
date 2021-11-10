@@ -27,7 +27,7 @@ layout: about
     · Python을 사용하여 데이터 분석 시스템 실습
     · Crawing + Django 연동 프로젝트
 
-
+<br>
 
 ## 성결대학교 정보통신공학과
 
@@ -41,7 +41,7 @@ layout: about
     · 임베디드 리눅스 커널 프로그래밍 교육 및 실습
     · 라즈베리파이, 각종 모듈을 사용하여 프로젝트 수행
 
-
+<br>
 
 ## 과천여자고등학교
 
@@ -64,7 +64,7 @@ layout: about
 기타 자격증
 ~~~
 · 운전면허 2종보통								AUG 02 2017
-· Microsoft Word Expert(Office 2016)			  		OCT 28 2021
+· Microsoft Word Expert(Office 2016)			  				OCT 28 2021
 ~~~
 
 <br><br>
