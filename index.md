@@ -13,7 +13,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 ## 솔데스크<br>(빅데이터 전문가)자바, 파이썬을 활용한 머신러닝 개발자 양성과정
 
-	[ Feb 2021 - July 2021 ]
+**[ Feb 2021 - July 2021 ]**
 
     · Spring Framework 프로젝트
     · HTML5, CSS, JSP를 사용하여 화면 설계 및 구현
@@ -26,7 +26,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 ## 성결대학교 정보통신공학과
 
-	[ Mar 2017 - Feb 2021 ]
+**[ Mar 2017 - Feb 2021 ]**
 
     · 공학인증프로그램(KEC2015) 이수
     · C, JAVA 기반의 프로그래밍 교육 및 프로젝트 수행
@@ -40,25 +40,25 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 ## 과천여자고등학교
 
-	[ Mar 2014 - Feb 2017 ]
+**[ Mar 2014 - Feb 2017 ]**
 
 <br/>
 
 # Certificate
 
-~~~
 **Engineering Certificate**
 전공 자격증
-
-· SQL 개발자(SQLD)									Jun 25 2021
-· 정보처리기사										AUG 20 2021
+~~~
+· SQL 개발자(SQLD)								Jun 25 2021
+· 정보처리기사									AUG 20 2021
 ~~~
 
-~~~
+<br>
+
 **Other Certificate**
 기타 자격증
-
-· 운전면허 2종보통										AUG 02 2017
+~~~
+· 운전면허 2종보통								AUG 02 2017
 ~~~
 
 <br/>
