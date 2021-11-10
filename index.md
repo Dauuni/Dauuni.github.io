@@ -40,11 +40,22 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 ## 과천여자고등학교
 
-	*[ Mar 2014 - Feb 2017 ]*
+	[ Mar 2014 - Feb 2017 ]
 
 <br/>
 
-# Interests
-I am interested in technology trends.  
-I'm not afraid to learn languages, but I enjoy using Python.  
-I like to automate and reduce annoying things.  
+# Certificate
+
+	Engineering Certificate
+    전공 자격증
+
+    ○ SQL 개발자(SQLD)												Jun 25 2021
+    ○ 정보처리기사													AUG 20 2021
+
+---
+    Other Certificate
+	기타 자격증
+
+    ○ 운전면허 2종보통												AUG 02 2017
+
+<br/>
