@@ -46,13 +46,14 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 # Certificate
 
-	Engineering Certificate
-    전공 자격증
+<code>**Engineering Certificate**
+    전공 자격증</code>
 
     · SQL 개발자(SQLD)								Jun 25 2021
     · 정보처리기사									AUG 20 2021
 
----
+<br>
+
     Other Certificate
 	기타 자격증
 
