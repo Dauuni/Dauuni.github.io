@@ -11,7 +11,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 # Education&Career
 
-### 솔데스크<br>(빅데이터 전문가)자바, 파이썬을 활용한 머신러닝 개발자 양성과정
+## 솔데스크<br>(빅데이터 전문가)자바, 파이썬을 활용한 머신러닝 개발자 양성과정
 
 	[ Feb 2021 - July 2021 ]
 
@@ -24,7 +24,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <br>
 
 
-### 성결대학교 정보통신공학과
+## 성결대학교 정보통신공학과
 
 	[ Mar 2017 - Feb 2021 ]
 
@@ -38,9 +38,9 @@ I wrote "about me", "career", and "interests" on this page as an example.
 
 <br>
 
-### 과천여자고등학교
+## 과천여자고등학교
 
-	[ Mar 2014 - Feb 2017 ]
+	*[ Mar 2014 - Feb 2017 ]*
 
 <br/>
 
