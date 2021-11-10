@@ -62,3 +62,6 @@ I wrote "about me", "career", and "interests" on this page as an example.
 ~~~
 
 <br/>
+
+# Skills
+<code>Python</code><code>JAVA</code>
