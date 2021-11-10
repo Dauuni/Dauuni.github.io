@@ -12,7 +12,8 @@ layout: about
 * MyBATIS를 통한 Java Object와 SQL 사이의 매핑 기능을 이해하고 있습니다.
 * HTML5, CSS, Bootstrap을 활용하여 UI를 구현할 수 있습니다.
 * Client화면 구현에 필요한 JavaScript, jQuery, Ajax, JSON의 원리를 이해하고 있습니다.
-<br/>
+
+<br><br>
 
 # Education&Career
 
@@ -26,7 +27,6 @@ layout: about
     · Python을 사용하여 데이터 분석 시스템 실습
     · Crawing + Django 연동 프로젝트
 
-<br>
 
 
 ## 성결대학교 정보통신공학과
@@ -41,13 +41,13 @@ layout: about
     · 임베디드 리눅스 커널 프로그래밍 교육 및 실습
     · 라즈베리파이, 각종 모듈을 사용하여 프로젝트 수행
 
-<br>
+
 
 ## 과천여자고등학교
 
 **[ Mar 2014 - Feb 2017 ]**
 
-<br/>
+<br><br>
 
 # Certificate
 
@@ -67,8 +67,8 @@ layout: about
 · Microsoft Word Expert(Office 2016)			  		OCT 28 2021
 ~~~
 
-<br/>
+<br><br>
 
 # Skills
 
-<code>JAVA</code> <code>Python</code> <code>C</code> <code>R</code> <code>HTML5</code> <code>CSS</code> <code>JSP</code> <code>Bootstrap</code> <code>JavaScript</code> <code>jQuery</code> <code>Ajax</code> <code>JSON</code> <code>PHP</code> <code>Spring</code> <code>Spring Boot</code> <code>MyBatis</code> <code>Oracle</code> <code>MariaDB</code> <code>Django</code> <code>Android Studio</code> <code>Arduino</code> <code>Raspberry Pi</code>
+<code>JAVA</code> <code>Python</code> <code>C</code> <code>R</code> <code>HTML5</code> <code>CSS</code> <code>JSP</code> <code>Bootstrap</code> <code>JavaScript</code> <code>jQuery</code> <code>Ajax</code> <code>JSON</code> <code>PHP</code> <code>Spring</code> <br> <code>Spring Boot</code> <code>MyBatis</code> <code>Oracle</code> <code>MariaDB</code> <code>Django</code> <code>Android Studio</code> <code>Arduino</code> <code>Raspberry Pi</code>
