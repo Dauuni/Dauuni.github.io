@@ -3,10 +3,15 @@ layout: about
 ---
 
 # About Me
-There is no specific format here. You can fill out the form you want.  
-For example, you might want to write a brief introduction about your self, experience, interests, publications, and other information.  
-I wrote "about me", "career", and "interests" on this page as an example.  
 
+**정보통신공학전공으로 준비된 인재입니다.**
+
+* 정보처리기사, SQL 개발자 자격증을 보유하고 있습니다.
+* Android Studio를 사용한 APP 개발을 할 수 있습니다.
+* Spring Framework 기반 Web을 개발 순서를 이해하고, 구현할 수 있습니다.
+* MyBATIS를 통한 Java Object와 SQL 사이의 매핑 기능을 이해하고 있습니다.
+* HTML5, CSS, Bootstrap을 활용하여 UI를 구현할 수 있습니다.
+* Client화면 구현에 필요한 JavaScript, jQuery, Ajax, JSON의 원리를 이해하고 있습니다.
 <br/>
 
 # Education&Career
@@ -59,6 +64,7 @@ I wrote "about me", "career", and "interests" on this page as an example.
 기타 자격증
 ~~~
 · 운전면허 2종보통								AUG 02 2017
+· Microsoft Word Expert(Office 2016)			  OCT 28 2021
 ~~~
 
 <br/>
