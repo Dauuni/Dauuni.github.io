@@ -10,28 +10,23 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <br/>
 
 # Education&Career
-<pre>
-<code>
-* 솔데스크<br>	(빅데이터 전문가)자바, 파이썬을 활용한 머신러닝 개발자 양성과정<br>	『2017/03 ~ 2021/02)』
-</code>
+
+### 솔데스크<br>	(빅데이터 전문가)자바, 파이썬을 활용한 머신러닝 개발자 양성과정<br>	『2017/03 ~ 2021/02)』
 
     * Developed TCP network acceleration module.
     * Developde Application User Interface.
-</pre>
 
-<pre>
-<code>
-* 성결대학교 정보통신공학과<br>	『(2017/03 ~ 2021/02)』
-</code>
+<br>
+
+
+### 성결대학교 정보통신공학과<br>『(2017/03 ~ 2021/02)』
+
     * Developed TCP network acceleration module.
     * Developde Application User Interface.
-</pre>
 
-<pre>
-<code>
-* 과천여자고등학교<br>	『2014/03 ~ 2017/02)』
-</code>
-</pre>
+<br>
+
+### 과천여자고등학교<br>『2014/03 ~ 2017/02)』
 
 <br/>
 
