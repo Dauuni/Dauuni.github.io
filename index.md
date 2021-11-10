@@ -64,4 +64,5 @@ I wrote "about me", "career", and "interests" on this page as an example.
 <br/>
 
 # Skills
-<code>Python</code><code>JAVA</code>
+
+<code>JAVA</code> <code>Python</code> <code>C</code> <code>R</code> <code>HTML5</code> <code>CSS</code> <code>JSP</code> <code>Bootstrap</code> <code>JavaScript</code> <code>jQuery</code> <code>Ajax</code> <code>JSON</code> <code>PHP</code> <code>Spring</code> <code>Spring Boot</code> <code>MyBatis</code> <code>Oracle</code> <code>MariaDB</code> <code>Django</code> <code>Android Studio</code> <code>Arduino</code> <code>Raspberry Pi</code>
