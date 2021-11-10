@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "News 데이터 분석 시스템"
+title: "News 데이터 분석 시스템"
 info: "빅데이터 수집 시스템 개발"
 tech: "Python, Crawling, BeautifulSoup, KoNLPy, WorldCloud, MariaDB, Django, Pycharm, HTML, CSS, jQuery, Ajax, Bootstrap"
-type:Personal
+type: Personal
 ---
 
 ## Create github page 
