@@ -71,7 +71,7 @@ To create a github page, you need to know ruby and jekyll.
 
 | Means | Explanation |
 |:--------:|--------|
-|개발 방법론|**애자일 방법론**을 적용하여 개인에게 책임 부여하고 주도적인 개발 환경 구성|
+|개발 방법론|애자일 방법론을 적용하여 개인에게 책임 부여하고 주도적인 개발 환경 구성|
 |기본 언어|Python|
 |DBMS|MariaDB|
 |Front end|HTML, CSS, jQuery, Ajax, Javascript, Bootstrap|
@@ -82,15 +82,18 @@ To create a github page, you need to know ruby and jekyll.
 |시각화|WorldCloud package|
 |Web Framework|Django 3|
 |편집기|Anaconda, Jupyter, Notebook, Pycharm 2020.1|
+
 <br>
 
 ## Development Sequence
 ---
 
 1. jQuery, Ajax, JSON, Django, Beautifulsoup, MariaDB 연동 크롤링, 분석 시스템 개발용 <br>Pycharm 프로젝트 설정
+<br>
 ![](/assets/img/50.jpg)
 
 2. templates 페이지, HTML · CSS · Ajax 요청 페이지 제작
+<br>
 ![](/assets/img/51.jpg)
 
 3. models.py를 통한 Table 구조 정의
