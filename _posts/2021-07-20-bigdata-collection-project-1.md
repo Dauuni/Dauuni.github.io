@@ -87,7 +87,7 @@ To create a github page, you need to know ruby and jekyll.
 ## Development Sequence
 ---
 
-1. jQuery, Ajax, JSON, Django, Beautifulsoup, MariaDB 연동 크롤링, 분석 시스템 개발용 Pycharm 프로젝트 설정
+1. jQuery, Ajax, JSON, Django, Beautifulsoup, MariaDB 연동 크롤링, 분석 시스템 개발용 <br>Pycharm 프로젝트 설정
 ![](/assets/img/50.jpg)
 
 2. templates 페이지, HTML · CSS · Ajax 요청 페이지 제작
