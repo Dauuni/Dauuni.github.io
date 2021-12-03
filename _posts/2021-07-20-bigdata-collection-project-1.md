@@ -97,10 +97,18 @@ To create a github page, you need to know ruby and jekyll.
 3. models.py를 통한 Table 구조 정의<br>
 ![](/assets/img/52.jpg)
 
-4. 관련 Python package install
-```{.bash}
-(base) C:\Windows\system32>activate ai   (ai) C:\Windows\system32>pip install beautifulsoup4   (ai) C:\Windows\system32>pip install wordcloud   (ai) C:\Windows\system32>pip install konlpy   (ai) C:\Windows\system32>pip install nltk   (ai) C:\Windows\system32>cd /   (ai) C:\>cd ai8/setup   (ai) C:/ai8/setup> activate ai   (ai) C:/ai8/setup> pip install JPype1-1.1.2-cp37-cp37m-win_amd64.whl
+4. 관련 Python package install<br>
 
+```{.bash}
+(base) C:\Windows\system32>activate ai   
+(ai) C:\Windows\system32>pip install beautifulsoup4   
+(ai) C:\Windows\system32>pip install wordcloud   
+(ai) C:\Windows\system32>pip install konlpy   
+(ai) C:\Windows\system32>pip install nltk   
+(ai) C:\Windows\system32>cd    
+(ai) C:\>cd ai8/setup   
+(ai) C:/ai8/setup> activate ai   
+(ai) C:/ai8/setup> pip install JPype1-1.1.2-cp37-cp37m-win_amd64.whl
 ```
 
 5. 수집 시작 및 중지 기능 제작
