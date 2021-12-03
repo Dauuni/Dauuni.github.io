@@ -14,10 +14,12 @@ type: Personal
 
 
 ## Github
+---
 To create a github page, you need to know ruby and jekyll.
 <br><br>
 
 ## Goals
+---
 
 1. Daum News 랭킹에서 순서대로 제목을 수집
 2. 수집된 자료의 태그를 분석하여 정보 추출
@@ -28,8 +30,27 @@ To create a github page, you need to know ruby and jekyll.
 <br><br>
 
 ## Main courses and procedures
+---
 
 <br>
 ![](/assets/img/49.JPG)
 <br>
+
+## Techique
+---
+
+| Means | Explanation |
+|:--------:|--------|
+|개발 방법론|**애자일 방법론**을 적용하여 개인에게 책임 부여하고 주도적인 개발 환경 구성|
+|기본 언어|Python|
+|DBMS|MariaDB|
+|Front end|HTML, CSS, jQuery, Ajax, Javascript, Bootstrap|
+|Back end|Python, Django|
+|데이터 수집|BeautifulSoup|
+|형태소 분석기|Konlpy, Okit package|
+|빈도 분석|Counter class|
+|시각화|WorldCloud package|
+|Web Framework|Django 3|
+|편집기|Anaconda, Jupyter, Notebook, Pycharm 2020.1|
+
 
