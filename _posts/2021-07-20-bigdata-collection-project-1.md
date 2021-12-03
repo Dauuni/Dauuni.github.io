@@ -6,6 +6,35 @@ tech: "Python, Crawling, BeautifulSoup, KoNLPy, WorldCloud, MariaDB, Django, Pyc
 type: Personal
 ---
 
+<style>
+  table {
+      border-collapse: collapse;
+      border-top: 1px solid #ccc;
+      border-left: 1px solid #ccc;
+      border-right: 1px solid #ccc;
+      border-bottom: 1px solid #ccc;
+  }
+  table thead th {
+  	  border-left: 2px solid #ccc;
+  	  border-right: 2px solid #ccc;
+  	  border-bottom: 2px solid #ccc;
+      background-color: #F2F2F2;
+      text-align: center;
+      line-height: 1.5;
+      padding: 10px;
+      font-weight: bold;
+      vertical-align: middle;
+      color: #1b3453;
+  }
+  table td {
+      padding: 10px 15px;
+      vertical-align: middle;
+      border-left: 1px solid #ccc;
+      border-right: 1px solid #ccc;
+      border-bottom: 1px solid #ccc;
+}
+</style>
+
 # News 데이터 분석 시스템
 
 직접 사이트에 접속하여 기사를 읽어야 트렌드를 분석할 수 있는 불편함을 해소하기 위한 사이트이다. 데이터 분석 시 주관적인 견해가 포함되는 문제점을 해결할 수 있고, 워드클라우드 기법을 사용하여 통계 자료의 시각적 효과를 높였다.
@@ -38,6 +67,7 @@ To create a github page, you need to know ruby and jekyll.
 
 ## Techique
 ---
+<br>
 
 | Means | Explanation |
 |:--------:|--------|
