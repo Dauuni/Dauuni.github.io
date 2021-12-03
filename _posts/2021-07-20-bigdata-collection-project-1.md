@@ -90,18 +90,22 @@ To create a github page, you need to know ruby and jekyll.
 
 1. jQuery, Ajax, JSON, Django, Beautifulsoup, MariaDB 연동 크롤링, 분석 시스템 개발용 <br>Pycharm 프로젝트 설정
 <br>
+
 ![](/assets/img/50.jpg)
 
 2. templates 페이지, HTML · CSS · Ajax 요청 페이지 제작
 <br>
+
 ![](/assets/img/51.jpg)
 
 3. models.py를 통한 Table 구조 정의
 <br>
+
 ![](/assets/img/52.jpg)
 
 4. 관련 Python package install
 <br>
+
 ```{.bash}
 (base) C:\Windows\system32>activate ai
 (ai) C:\Windows\system32>pip install beautifulsoup4
@@ -116,22 +120,27 @@ To create a github page, you need to know ruby and jekyll.
 
 5. 수집 시작 및 중지 기능 제작
 <br>
+
 ![](/assets/img/53.jpg)<br>
 ![](/assets/img/54.jpg)
 
 6. 목록 출력 기능 구현
 <br>
+
 ![](/assets/img/55.jpg)
 
 7. 한 건의 자료를 삭제하는 기능 구현
 <br>
+
 ![](/assets/img/56.jpg)
 
 8. 모든 자료를 삭제하는 기능 구현
 <br>
+
 ![](/assets/img/57.jpg)
 
 9. 자연어 처리를 기반으로 한 빈도 분석과 워드 클라우드 제작 및 저장
 <br>
+
 ![](/assets/img/58.jpg)<br>
 ![](/assets/img/59.jpg)<br>
