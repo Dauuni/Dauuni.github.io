@@ -98,21 +98,31 @@ To create a github page, you need to know ruby and jekyll.
 ![](/assets/img/52.jpg)
 
 4. 관련 Python package install<br>
-
 ```{.bash}
-(base) C:\Windows\system32>activate ai   
-(ai) C:\Windows\system32>pip install beautifulsoup4   
-(ai) C:\Windows\system32>pip install wordcloud   
-(ai) C:\Windows\system32>pip install konlpy   
-(ai) C:\Windows\system32>pip install nltk   
-(ai) C:\Windows\system32>cd    
-(ai) C:\>cd ai8/setup   
-(ai) C:/ai8/setup> activate ai   
+(base) C:\Windows\system32>activate ai
+(ai) C:\Windows\system32>pip install beautifulsoup4
+(ai) C:\Windows\system32>pip install wordcloud
+(ai) C:\Windows\system32>pip install konlpy
+(ai) C:\Windows\system32>pip install nltk
+(ai) C:\Windows\system32>cd
+(ai) C:\>cd ai8/setup
+(ai) C:/ai8/setup> activate ai
 (ai) C:/ai8/setup> pip install JPype1-1.1.2-cp37-cp37m-win_amd64.whl
 ```
 
-5. 수집 시작 및 중지 기능 제작
-6. 목록 출력 기능 구현
-7. 한 건의 자료를 삭제하는 기능 구현
-8. 모든 자료를 삭제하는 기능 구현
-9. 자연어 처리를 기반으로 한 빈도 분석과 워드 클라우드 제작 및 저장
+5. 수집 시작 및 중지 기능 제작<br>
+![](/assets/img/53.jpg)<br>
+![](/assets/img/54.jpg)
+
+6. 목록 출력 기능 구현<br>
+![](/assets/img/55.jpg)
+
+7. 한 건의 자료를 삭제하는 기능 구현<br>
+![](/assets/img/56.jpg)
+
+8. 모든 자료를 삭제하는 기능 구현<br>
+![](/assets/img/57.jpg)
+
+9. 자연어 처리를 기반으로 한 빈도 분석과 워드 클라우드 제작 및 저장<br>
+![](/assets/img/58.jpg)<br>
+![](/assets/img/59.jpg)<br>
