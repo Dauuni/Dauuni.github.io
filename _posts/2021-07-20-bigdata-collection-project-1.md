@@ -30,6 +30,6 @@ To create a github page, you need to know ruby and jekyll.
 ## Main courses and procedures
 
 <br>
-![](/assets/img/49.jpg)
+![](/assets/img/49.JPG)
 <br>
 
