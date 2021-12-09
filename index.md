@@ -64,7 +64,7 @@ layout: about
 기타 자격증
 ~~~
 · 운전면허 2종보통								AUG 02 2017
-· Microsoft Word Expert(Office 2016)			  	OCT 28 2021
+· Microsoft Word Expert(Office 2016)			  			OCT 28 2021
 ~~~
 
 <br><br>
