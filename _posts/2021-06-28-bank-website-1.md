@@ -39,6 +39,24 @@ KM Bank 사이트는 이 점을 고려하여 사용자가 궁금한 두 은행�
 - **Physical**
 ![](/assets/img/38.jpg)
 
+## Development Sequence
+---
+1. 구현 기능 분석
+2. DB 모델링
+3. SQL 생성 및 테스트
+4. VO(DTO) 생성
+	- SQL을 MyBATIS XML로 변환
+	- SQL XML Mapping File 생성
+5. DAO Interface 생성
+6. DAO Interface 구현
+7. Process Interface 생성(Business Logic, Manager/Service class)
+8. Process Interface 구현
+9. Spring Controller MVC Action class 생성
+10. Controller, Beans(Tool(Utility 날짜 처리등 각종 메소드), Paging, Download)
+11. JSP 제작, Controller, Beans와 연동
+12. Test
+<br><br>
+
 ## Techique
 ---
 
@@ -100,25 +118,6 @@ KM Bank 사이트는 이 점을 고려하여 사용자가 궁금한 두 은행�
 - **JSON**
 
 	-- Controller에서 VO에서 선언한 각각의 필드를 AJAX가 사용하기 위해 데이터를 전달하는 개방형 표준 포맷이다.<br><br>
-
-
-## Development Sequence
----
-1. 구현 기능 분석
-2. DB 모델링
-3. SQL 생성 및 테스트
-4. VO(DTO) 생성
-	- SQL을 MyBATIS XML로 변환
-	- SQL XML Mapping File 생성
-5. DAO Interface 생성
-6. DAO Interface 구현
-7. Process Interface 생성(Business Logic, Manager/Service class)
-8. Process Interface 구현
-9. Spring Controller MVC Action class 생성
-10. Controller, Beans(Tool(Utility 날짜 처리등 각종 메소드), Paging, Download)
-11. JSP 제작, Controller, Beans와 연동
-12. Test
-<br><br>
 
 ## Web site
 ---
