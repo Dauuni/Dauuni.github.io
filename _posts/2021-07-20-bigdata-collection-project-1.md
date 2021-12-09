@@ -44,7 +44,7 @@ type: Personal
 
 ## Github
 ---
-To create a github page, you need to know ruby and jekyll.
+<https://github.com/Dauuni/CrawlingB.git>
 <br><br>
 
 ## Goals
