@@ -6,10 +6,10 @@ layout: about
 
 **정보통신공학전공으로 준비된 인재입니다.**
 
-* 정보처리기사, SQL 개발자 자격증을 보유하고 있습니다.
-* Android Studio를 사용한 APP 개발을 할 수 있습니다.
-* Spring Framework 기반 Web을 개발 순서를 이해하고, 구현할 수 있습니다.
-* MyBATIS를 통한 Java Object와 SQL 사이의 매핑 기능을 이해하고 있습니다.
+* 정보처리기사, SQLD 자격증을 보유하고 있습니다.
+* Android Studio를 사용하여 APP 개발을 할 수 있습니다.
+* Spring Framework 기반 Web 개발 순서를 이해하고 구현할 수 있습니다.
+* MyBATIS를 통한 Java Object와 SQL 사이의 매핑 기능을 이해하고 구현할 수 있습니다.
 * HTML5, CSS, Bootstrap을 활용하여 UI를 구현할 수 있습니다.
 * Client화면 구현에 필요한 JavaScript, jQuery, Ajax, JSON의 원리를 이해하고 있습니다.
 
@@ -38,7 +38,6 @@ layout: about
     · 전자·논리회로 설계
     · Windows 환경에서 소켓 프로그래밍 교육 및 실습
     · OrCAD를 사용하여 전자회로 설계 시뮬레이션 팀 과제 수행
-    · 임베디드 리눅스 커널 프로그래밍 교육 및 실습
     · 라즈베리파이, 각종 모듈을 사용하여 프로젝트 수행
 
 <br>
@@ -54,7 +53,7 @@ layout: about
 **Engineering Certificate**<br>
 전공 자격증
 ~~~
-· SQL 개발자(SQLD)								Jun 25 2021
+· SQLD											Jun 25 2021
 · 정보처리기사									AUG 20 2021
 ~~~
 
