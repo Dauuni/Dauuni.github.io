@@ -11,7 +11,7 @@ layout: about
 * Spring Framework 기반 Web 개발 순서를 이해하고 구현할 수 있습니다.
 * MyBATIS를 통한 Java Object와 SQL 사이의 매핑 기능을 이해하고 구현할 수 있습니다.
 * HTML5, CSS, Bootstrap을 활용하여 UI를 구현할 수 있습니다.
-* Client화면 구현에 필요한 JavaScript, jQuery, Ajax, JSON의 원리를 이해하고 있습니다.
+* Client 화면 구현에 필요한 JavaScript, jQuery, Ajax, JSON의 원리를 이해하고 있습니다.
 
 <br><br>
 
@@ -22,7 +22,8 @@ layout: about
 **[ Feb 2021 - July 2021 ]**
 
     · Spring Framework 프로젝트
-    · HTML5, CSS, JSP를 사용하여 화면 설계 및 구현
+    · HTML5, CSS, JSP를 사용하여 UI 설계 및 구현
+    · JavaScript, jQuery, Ajax, JSON을 사용하여 Client 화면 구현
     · Oracle, MariaDB를 사용하여 데이터 저장 및 관리
     · Python을 사용하여 데이터 분석 시스템 실습
     · Crawing + Django 연동 프로젝트
