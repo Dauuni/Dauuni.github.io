@@ -64,7 +64,7 @@ layout: about
 기타 자격증
 ~~~
 · 운전면허 2종보통								AUG 02 2017
-· MOS Master			  						OCT 28 2021
+· MOS Master			  						JAN 05 2022
 ~~~
 
 <br><br>
