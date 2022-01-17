@@ -6,10 +6,10 @@ google_analytics: # Tracking ID, e.g. "UA-000000-01"
 
 # Author
 author:
-  name: 주먹밥 새영맨
+  name: 문다은
   desc: 
   email: ttaun0204@naver.com
-  selfie: assets/img/na.jpg
+  selfie: assets/img/1.jpg
 
 # social
 social:
