@@ -23,7 +23,7 @@ layout: about
 
     · Spring Framework 프로젝트
     · HTML5, CSS, JSP를 사용하여 UI 설계 및 구현
-    · JavaScript, jQuery, Ajax, JSON을 사용하여 Client 화면 구현
+    · JavaScript, jQuery, Ajax, JSON을 사용하여 화면 구현
     · Oracle, MariaDB를 사용하여 데이터 저장 및 관리
     · Python을 사용하여 데이터 분석 시스템 실습
     · Crawing + Django 연동 프로젝트
