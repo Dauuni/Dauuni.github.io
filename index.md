@@ -54,6 +54,7 @@ layout: about
 **Engineering Certificate**<br>
 전공 자격증
 ~~~
+· COS Pro(Python) 2급							Jun 25 2021
 · SQLD										Jun 25 2021
 · 정보처리기사									AUG 20 2021
 ~~~
